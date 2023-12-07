@@ -12,6 +12,10 @@ Os termos utilizados nesta Política de Privacidade têm os mesmos significados 
 
 Para uma melhor experiência, ao usar nosso Serviço, posso exigir que você nos forneça certas informações de identificação pessoal, incluindo, entre outras, Nome, Endereços, Números de telefone, Imagens. As informações que solicito serão mantidas em seu dispositivo e não serão coletadas por mim de forma alguma.
 
+**Geolocalização**
+ Coletamos seu identificador de usuário exclusivo e sua localização por meio de GPS, WiFi ou triangulação de rede sem fio para obter sua localização para fins de prestação de nosso Serviço. Coletamos a localização dos “Locais” designados para fornecer alertas quando os membros chegam e saem. Se você excluir um local, o local do local será removido completamente. Mantemos informações de localização apenas enquanto for razoável para fornecer o Serviço e, em seguida, excluímos os dados de localização vinculados às suas informações pessoais. Poderemos manter dados de localização anonimizados por um período de tempo mais longo para analisar tendências e métricas agregadas. Também podemos compartilhar informações de localização com terceiros para fins publicitários, de pesquisa e analíticos. Se você deseja cancelar a coleta de seus dados de localização, desative o Serviço de Localização para o aplicativo Rolê de boa nas configurações do seu dispositivo móvel. Se você remover sua conta do Rolê de boa, destruiremos os dados de localização.
+
+
 O aplicativo usa serviços de terceiros que podem coletar informações usadas para identificá-lo.
 
 [^1]: Link para a política de privacidade de provedores de serviços terceirizados usados pelo app
